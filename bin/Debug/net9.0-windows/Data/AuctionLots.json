@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "AuctionId": 1,
+    "Auction": null,
+    "PaintingId": 1,
+    "Painting": null,
+    "LotNumber": 101,
+    "StartingPrice": 50000.0,
+    "FinalPrice": 75000.0,
+    "IsSold": true,
+    "BuyerInfo": "Колекціонер X"
+  },
+  {
+    "Id": 2,
+    "AuctionId": 1,
+    "Auction": null,
+    "PaintingId": 4,
+    "Painting": null,
+    "LotNumber": 102,
+    "StartingPrice": 1000000.0,
+    "FinalPrice": null,
+    "IsSold": false,
+    "BuyerInfo": ""
+  },
+  {
+    "Id": 3,
+    "AuctionId": 2,
+    "Auction": null,
+    "PaintingId": 1,
+    "Painting": null,
+    "LotNumber": 201,
+    "StartingPrice": 80000.0,
+    "FinalPrice": 90000.0,
+    "IsSold": true,
+    "BuyerInfo": "Колекціонер Y"
+  }
+]

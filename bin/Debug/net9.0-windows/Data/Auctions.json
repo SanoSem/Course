@@ -1,0 +1,139 @@
+[
+  {
+    "Id": 1,
+    "Name": "Весняний аукціон імпресіоністів",
+    "Date": "2023-05-10T18:00:00",
+    "Location": "Лондон",
+    "AuctionHouse": "Sotheby's",
+    "Lots": [
+      {
+        "Id": 1,
+        "AuctionId": 1,
+        "Auction": null,
+        "PaintingId": 1,
+        "Painting": {
+          "Id": 1,
+          "Title": "Зоряна ніч",
+          "ArtistId": 1,
+          "Artist": {
+            "Id": 1,
+            "FirstName": "Вінсент",
+            "LastName": "Ван Гог",
+            "BirthDate": "1853-03-30T00:00:00",
+            "DeathDate": "1890-07-29T00:00:00",
+            "Nationality": "Нідерландець",
+            "Biography": "Відомий постімпресіоніст...",
+            "Styles": [
+              "Постімпресіонізм"
+            ],
+            "PhotoPath": "",
+            "FullName": "Вінсент Ван Гог",
+            "IsAlive": false
+          },
+          "Year": 1889,
+          "Genre": "Пейзаж",
+          "Technique": "Олія на полотні",
+          "Dimensions": "73.7 cm × 92.1 cm",
+          "Description": "Відомий шедевр Ван Гога.",
+          "ImagePath": ""
+        },
+        "LotNumber": 101,
+        "StartingPrice": 50000.0,
+        "FinalPrice": 75000.0,
+        "IsSold": true,
+        "BuyerInfo": "Колекціонер X"
+      },
+      {
+        "Id": 2,
+        "AuctionId": 1,
+        "Auction": null,
+        "PaintingId": 4,
+        "Painting": {
+          "Id": 4,
+          "Title": "Мона Ліза",
+          "ArtistId": 3,
+          "Artist": {
+            "Id": 3,
+            "FirstName": "Леонардо",
+            "LastName": "да Вінчі",
+            "BirthDate": "1452-04-15T00:00:00",
+            "DeathDate": "1519-05-02T00:00:00",
+            "Nationality": "Італієць",
+            "Biography": "Видатний художник, винахідник...",
+            "Styles": [
+              "Ренесанс"
+            ],
+            "PhotoPath": "",
+            "FullName": "Леонардо да Вінчі",
+            "IsAlive": false
+          },
+          "Year": 1503,
+          "Genre": "Портрет",
+          "Technique": "Олія на тополевій дошці",
+          "Dimensions": "77 cm × 53 cm",
+          "Description": "Найвідоміша картина у світі.",
+          "ImagePath": ""
+        },
+        "LotNumber": 102,
+        "StartingPrice": 1000000.0,
+        "FinalPrice": null,
+        "IsSold": false,
+        "BuyerInfo": ""
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Аукціон старих майстрів",
+    "Date": "2023-11-22T14:00:00",
+    "Location": "Нью-Йорк",
+    "AuctionHouse": "Christie's",
+    "Lots": [
+      {
+        "Id": 3,
+        "AuctionId": 2,
+        "Auction": null,
+        "PaintingId": 1,
+        "Painting": {
+          "Id": 1,
+          "Title": "Зоряна ніч",
+          "ArtistId": 1,
+          "Artist": {
+            "Id": 1,
+            "FirstName": "Вінсент",
+            "LastName": "Ван Гог",
+            "BirthDate": "1853-03-30T00:00:00",
+            "DeathDate": "1890-07-29T00:00:00",
+            "Nationality": "Нідерландець",
+            "Biography": "Відомий постімпресіоніст...",
+            "Styles": [
+              "Постімпресіонізм"
+            ],
+            "PhotoPath": "",
+            "FullName": "Вінсент Ван Гог",
+            "IsAlive": false
+          },
+          "Year": 1889,
+          "Genre": "Пейзаж",
+          "Technique": "Олія на полотні",
+          "Dimensions": "73.7 cm × 92.1 cm",
+          "Description": "Відомий шедевр Ван Гога.",
+          "ImagePath": ""
+        },
+        "LotNumber": 201,
+        "StartingPrice": 80000.0,
+        "FinalPrice": 90000.0,
+        "IsSold": true,
+        "BuyerInfo": "Колекціонер Y"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "акція",
+    "Date": "2025-06-15T15:40:19.2168596+03:00",
+    "Location": "кривий ріг",
+    "AuctionHouse": "56",
+    "Lots": []
+  }
+]

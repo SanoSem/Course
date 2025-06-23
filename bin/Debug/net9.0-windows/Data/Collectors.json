@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Name": "Музей сучасного мистецтва",
+    "ContactInfo": "info@moma.org",
+    "Address": "Нью-Йорк, США",
+    "Type": 2,
+    "CollectionValue": 1500000000.0,
+    "Notes": "Один з найбільших музеїв сучасного мистецтва."
+  },
+  {
+    "Id": 2,
+    "Name": "Галерея Уффіці",
+    "ContactInfo": "uffizi@firenze.it",
+    "Address": "Флоренція, Італія",
+    "Type": 1,
+    "CollectionValue": 1200000000.0,
+    "Notes": "Відома колекція ренесансного мистецтва."
+  },
+  {
+    "Id": 3,
+    "Name": "Іван Петров",
+    "ContactInfo": "ivan.petrov@example.com",
+    "Address": "Київ, Україна",
+    "Type": 0,
+    "CollectionValue": 500000.0,
+    "Notes": "Приватний колекціонер українського живопису."
+  }
+]

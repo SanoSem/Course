@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "PaintingId": 1,
+    "CollectorId": 1,
+    "IsOriginal": true,
+    "PurchasePrice": 50000000.0,
+    "PurchaseDate": "1941-03-01T00:00:00",
+    "PurchaseLocation": "Приватна колекція",
+    "CurrentValue": 100000000.0,
+    "Condition": "Відмінний",
+    "StorageLocation": "Галерея 1, Сховище А",
+    "Notes": "Придбано на аукціоні Крістіс.",
+    "Painting": null,
+    "Collector": null
+  },
+  {
+    "Id": 2,
+    "PaintingId": 3,
+    "CollectorId": 2,
+    "IsOriginal": true,
+    "PurchasePrice": 30000000.0,
+    "PurchaseDate": "1955-06-15T00:00:00",
+    "PurchaseLocation": "Лондон, Англія",
+    "CurrentValue": 70000000.0,
+    "Condition": "Дуже хороший",
+    "StorageLocation": "Зал Моне",
+    "Notes": "Знакове придбання для імпресіоністичної колекції.",
+    "Painting": null,
+    "Collector": null
+  },
+  {
+    "Id": 3,
+    "PaintingId": 2,
+    "CollectorId": 3,
+    "IsOriginal": false,
+    "PurchasePrice": 1500.0,
+    "PurchaseDate": "2020-10-20T00:00:00",
+    "PurchaseLocation": "Місцевий арт-салон",
+    "CurrentValue": 2000.0,
+    "Condition": "Хороший",
+    "StorageLocation": "Домашній офіс",
+    "Notes": "Якісна копія.",
+    "Painting": null,
+    "Collector": null
+  }
+]

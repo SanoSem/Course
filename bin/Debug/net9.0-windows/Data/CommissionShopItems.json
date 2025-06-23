@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "PaintingId": 1,
+    "CommissionShopId": 1,
+    "AskingPrice": 100000000.0,
+    "ListingDate": "2025-06-17T16:46:39.1729618+03:00",
+    "IsSold": false,
+    "SalePrice": null,
+    "SaleDate": null,
+    "Notes": "немає"
+  }
+]

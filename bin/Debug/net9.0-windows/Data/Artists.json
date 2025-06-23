@@ -1,0 +1,63 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Вінсент",
+    "LastName": "Ван Гог",
+    "BirthDate": "1853-03-30T00:00:00",
+    "DeathDate": "2025-06-16T00:00:00",
+    "Nationality": "Нідерландець",
+    "Biography": "Відомий постімпресіоніст...",
+    "Styles": [
+      "Постімпресіонізм"
+    ],
+    "PhotoPath": "C:\\Users\\admin\\source\\repos\\Сursova\\bin\\Debug\\net9.0-windows\\Images\\Artists\\65d737d2-5109-4190-b1cc-da5025803aea.jpg",
+    "FullName": "Вінсент Ван Гог",
+    "IsAlive": false
+  },
+  {
+    "Id": 2,
+    "FirstName": "Клод",
+    "LastName": "Моне",
+    "BirthDate": "1840-11-14T00:00:00",
+    "DeathDate": "1926-12-05T00:00:00",
+    "Nationality": "Француз",
+    "Biography": "Засновник французького імпресіонізму...",
+    "Styles": [
+      "Імпресіонізм"
+    ],
+    "PhotoPath": "C:\\Users\\admin\\source\\repos\\Сursova\\bin\\Debug\\net9.0-windows\\Images\\Artists\\113dd811-8c23-4bcd-9b45-9628da66f0d9.jpg",
+    "FullName": "Клод Моне",
+    "IsAlive": false
+  },
+  {
+    "Id": 3,
+    "FirstName": "Леонардо",
+    "LastName": "да Вінчі",
+    "BirthDate": "1452-04-15T00:00:00",
+    "DeathDate": "1519-05-02T00:00:00",
+    "Nationality": "Італієць",
+    "Biography": "Видатний художник, винахідник...",
+    "Styles": [
+      "Ренесанс"
+    ],
+    "PhotoPath": "",
+    "FullName": "Леонардо да Вінчі",
+    "IsAlive": false
+  },
+  {
+    "Id": 4,
+    "FirstName": "Пабло",
+    "LastName": "Пікассо",
+    "BirthDate": "1881-10-25T00:00:00",
+    "DeathDate": "1973-04-08T00:00:00",
+    "Nationality": "Іспанець",
+    "Biography": "Один із найвпливовіших художників 20 століття...",
+    "Styles": [
+      "Кубізм",
+      "Сюрреалізм"
+    ],
+    "PhotoPath": "",
+    "FullName": "Пабло Пікассо",
+    "IsAlive": false
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Title": "Зоряна ніч",
+    "ArtistId": 1,
+    "Artist": null,
+    "Year": 1889,
+    "CreationDate": null,
+    "Genre": "Пейзаж",
+    "Technique": "Олія на полотні",
+    "Dimensions": "73.7 cm × 92.1 cm",
+    "Description": "Відомий шедевр Ван Гога.",
+    "ImagePath": "C:\\Users\\admin\\source\\repos\\Сursova\\bin\\Debug\\net9.0-windows\\Images\\Paintings\\c199fee8-77e4-430c-a7fb-c982c57cc50a.jpg",
+    "ArtistFullName": "Невідомий художник"
+  },
+  {
+    "Id": 2,
+    "Title": "Іриси",
+    "ArtistId": 1,
+    "Artist": null,
+    "Year": 1889,
+    "CreationDate": null,
+    "Genre": "Квітковий живопис",
+    "Technique": "Олія на полотні",
+    "Dimensions": "71 cm × 93 cm",
+    "Description": "Написана під час перебування Ван Гога в притулку.",
+    "ImagePath": "C:\\Users\\admin\\source\\repos\\Сursova\\bin\\Debug\\net9.0-windows\\Images\\Paintings\\f34d2856-65a2-4282-b3d8-1b48ff9f2944.jpg",
+    "ArtistFullName": "Невідомий художник"
+  },
+  {
+    "Id": 3,
+    "Title": "Враження. Схід сонця",
+    "ArtistId": 2,
+    "Artist": null,
+    "Year": 1872,
+    "CreationDate": null,
+    "Genre": "Пейзаж",
+    "Technique": "Олія на полотні",
+    "Dimensions": "48 cm × 63 cm",
+    "Description": "Дала назву імпресіонізму.",
+    "ImagePath": "",
+    "ArtistFullName": "Невідомий художник"
+  },
+  {
+    "Id": 4,
+    "Title": "Мона Ліза",
+    "ArtistId": 3,
+    "Artist": null,
+    "Year": 1503,
+    "CreationDate": null,
+    "Genre": "Портрет",
+    "Technique": "Олія на тополевій дошці",
+    "Dimensions": "77 cm × 53 cm",
+    "Description": "Найвідоміша картина у світі.",
+    "ImagePath": "",
+    "ArtistFullName": "Невідомий художник"
+  }
+]
