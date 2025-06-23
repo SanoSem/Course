@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Render\ArtistEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\ArtistsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\AuctionLotEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\AuctionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\CollectionItemEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\CollectionItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\CollectorEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\CollectorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\CommissionShopItemsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\CommissionShopsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\PaintingEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\PaintingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\PersonalCollectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Render\PersonalCollectionItemEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
